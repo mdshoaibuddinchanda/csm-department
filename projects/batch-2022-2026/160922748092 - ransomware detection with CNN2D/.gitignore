@@ -43,5 +43,33 @@ Thumbs.db
 # Logs
 *.log
 
-# Optional generated artifacts (uncomment if you do not want to track outputs)
-# figures/
+# Generated project artifacts
+figures/
+model/
+
+# Generated images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.bmp
+*.tif
+*.tiff
+*.svg
+
+# ML and analysis outputs
+*.h5
+*.hdf5
+*.pkl
+*.pckl
+*.joblib
+*.onnx
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.npz
+
+# Notebook/runtime generated files
+*.ipynb_checkpoints
