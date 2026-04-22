@@ -1,0 +1,2 @@
+python DensePassageRetrieval.py
+pause
